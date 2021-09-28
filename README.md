@@ -5,5 +5,4 @@
 - ❔ I'm learning more about RPG IV, Object Oriented Programming, and the Scrum Ideology.
 - 💬 Ask me about: HTML, CSS, RESTFUL Apis, JavaScript, Vue.JS
 - 📫 Connect with me on LinkedIn : https://www.linkedin.com/in/veronica-blake-noyce/
-- ⚡ Fun fact: I'm an Antarctic ambassitor, and love gentoo penguins!
--->
+- 🐧 Fun fact: I'm an Antarctic ambassador, and love gentoo penguins!
